@@ -73,7 +73,7 @@ export default function PronunciationExercisePage({
     resetTranscript,
   } = useSpeechRecognition({
     lang: "it-IT",
-    continuous: true, // Keep listening until manually stopped
+    continuous: false, // Auto-stop after silence (industry standard for mobile compatibility)
     timeout: 10000, // 10 second recording limit
     interimResults: true, // Enable interim results for real-time feedback
   });
