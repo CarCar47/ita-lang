@@ -5,7 +5,10 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactStrictMode: true,
 
-  // External packages for Phaser.js
+  // Turbopack config (required for Next.js 16)
+  turbopack: {},
+
+  // External packages for Phaser.js (webpack mode)
   webpack: (config) => {
     config.externals = [...(config.externals || []), { canvas: "canvas" }];
     return config;

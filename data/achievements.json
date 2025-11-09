@@ -1,0 +1,102 @@
+[
+  {
+    "id": "first-steps",
+    "name": "First Steps",
+    "description": "Complete your first lesson",
+    "iconName": "trophy",
+    "requirementType": "lessons_completed",
+    "requirementValue": 1,
+    "points": 10,
+    "badgeTier": "bronze"
+  },
+  {
+    "id": "getting-started",
+    "name": "Getting Started",
+    "description": "Complete 5 lessons",
+    "iconName": "trophy",
+    "requirementType": "lessons_completed",
+    "requirementValue": 5,
+    "points": 25,
+    "badgeTier": "bronze"
+  },
+  {
+    "id": "dedicated-learner",
+    "name": "Dedicated Learner",
+    "description": "Complete 10 lessons",
+    "iconName": "trophy",
+    "requirementType": "lessons_completed",
+    "requirementValue": 10,
+    "points": 50,
+    "badgeTier": "silver"
+  },
+  {
+    "id": "italian-scholar",
+    "name": "Italian Scholar",
+    "description": "Complete all 15 lessons",
+    "iconName": "trophy",
+    "requirementType": "lessons_completed",
+    "requirementValue": 15,
+    "points": 100,
+    "badgeTier": "gold"
+  },
+  {
+    "id": "on-fire",
+    "name": "On Fire",
+    "description": "Maintain a 7-day streak",
+    "iconName": "fire",
+    "requirementType": "streak_days",
+    "requirementValue": 7,
+    "points": 30,
+    "badgeTier": "silver"
+  },
+  {
+    "id": "unstoppable",
+    "name": "Unstoppable",
+    "description": "Maintain a 30-day streak",
+    "iconName": "fire",
+    "requirementType": "streak_days",
+    "requirementValue": 30,
+    "points": 100,
+    "badgeTier": "gold"
+  },
+  {
+    "id": "vocabulary-builder",
+    "name": "Vocabulary Builder",
+    "description": "Learn 100 words",
+    "iconName": "book",
+    "requirementType": "words_learned",
+    "requirementValue": 100,
+    "points": 50,
+    "badgeTier": "silver"
+  },
+  {
+    "id": "word-master",
+    "name": "Word Master",
+    "description": "Learn 500 words",
+    "iconName": "book",
+    "requirementType": "words_learned",
+    "requirementValue": 500,
+    "points": 150,
+    "badgeTier": "platinum"
+  },
+  {
+    "id": "perfectionist",
+    "name": "Perfectionist",
+    "description": "Get 3 perfect scores in a row",
+    "iconName": "star",
+    "requirementType": "perfect_scores",
+    "requirementValue": 3,
+    "points": 50,
+    "badgeTier": "gold"
+  },
+  {
+    "id": "pronunciation-pro",
+    "name": "Pronunciation Pro",
+    "description": "Achieve 90% pronunciation accuracy",
+    "iconName": "microphone",
+    "requirementType": "pronunciation_accuracy",
+    "requirementValue": 90,
+    "points": 75,
+    "badgeTier": "gold"
+  }
+]

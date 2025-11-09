@@ -1,0 +1,623 @@
+[
+  {
+    "id": "vocab-1-1",
+    "italian": "Ciao",
+    "english": "Hello / Hi / Bye",
+    "pronunciation": "chow",
+    "type": "greeting",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Ciao! Come stai?",
+    "exampleSentenceEnglish": "Hi! How are you?"
+  },
+  {
+    "id": "vocab-1-2",
+    "italian": "Buongiorno",
+    "english": "Good morning / Good day",
+    "pronunciation": "bwon-JOR-no",
+    "type": "greeting",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Buongiorno, signore!",
+    "exampleSentenceEnglish": "Good morning, sir!"
+  },
+  {
+    "id": "vocab-1-3",
+    "italian": "Buonasera",
+    "english": "Good evening",
+    "pronunciation": "bwon-a-SEH-ra",
+    "type": "greeting",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Buonasera a tutti!",
+    "exampleSentenceEnglish": "Good evening everyone!"
+  },
+  {
+    "id": "vocab-1-4",
+    "italian": "Buonanotte",
+    "english": "Good night",
+    "pronunciation": "bwon-a-NOT-teh",
+    "type": "greeting",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Buonanotte e sogni d'oro!",
+    "exampleSentenceEnglish": "Good night and sweet dreams!"
+  },
+  {
+    "id": "vocab-1-5",
+    "italian": "Arrivederci",
+    "english": "Goodbye",
+    "pronunciation": "ah-ree-veh-DEHR-chee",
+    "type": "greeting",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Arrivederci, a presto!",
+    "exampleSentenceEnglish": "Goodbye, see you soon!"
+  },
+  {
+    "id": "vocab-1-6",
+    "italian": "Grazie",
+    "english": "Thank you",
+    "pronunciation": "GRAH-tsee-eh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Grazie mille!",
+    "exampleSentenceEnglish": "Thank you very much!"
+  },
+  {
+    "id": "vocab-1-7",
+    "italian": "Prego",
+    "english": "You're welcome / Please",
+    "pronunciation": "PREH-go",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Grazie! - Prego!",
+    "exampleSentenceEnglish": "Thank you! - You're welcome!"
+  },
+  {
+    "id": "vocab-1-8",
+    "italian": "Scusa",
+    "english": "Excuse me / Sorry (informal)",
+    "pronunciation": "SKOO-za",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Scusa, dov'è il bagno?",
+    "exampleSentenceEnglish": "Excuse me, where is the bathroom?"
+  },
+  {
+    "id": "vocab-1-9",
+    "italian": "Scusi",
+    "english": "Excuse me / Sorry (formal)",
+    "pronunciation": "SKOO-zee",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Scusi, signora.",
+    "exampleSentenceEnglish": "Excuse me, madam."
+  },
+  {
+    "id": "vocab-1-10",
+    "italian": "Per favore",
+    "english": "Please",
+    "pronunciation": "pehr fah-VO-reh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Un caffè, per favore.",
+    "exampleSentenceEnglish": "A coffee, please."
+  },
+  {
+    "id": "vocab-1-11",
+    "italian": "Sì",
+    "english": "Yes",
+    "pronunciation": "see",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Sì, grazie!",
+    "exampleSentenceEnglish": "Yes, thank you!"
+  },
+  {
+    "id": "vocab-1-12",
+    "italian": "No",
+    "english": "No",
+    "pronunciation": "no",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "No, grazie.",
+    "exampleSentenceEnglish": "No, thank you."
+  },
+  {
+    "id": "vocab-1-13",
+    "italian": "Come stai?",
+    "english": "How are you? (informal)",
+    "pronunciation": "KO-meh STAI",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Ciao! Come stai?",
+    "exampleSentenceEnglish": "Hi! How are you?"
+  },
+  {
+    "id": "vocab-1-14",
+    "italian": "Come sta?",
+    "english": "How are you? (formal)",
+    "pronunciation": "KO-meh STA",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Buongiorno, come sta?",
+    "exampleSentenceEnglish": "Good morning, how are you?"
+  },
+  {
+    "id": "vocab-1-15",
+    "italian": "Bene",
+    "english": "Good / Well",
+    "pronunciation": "BEH-neh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Sto bene, grazie!",
+    "exampleSentenceEnglish": "I'm good, thank you!"
+  },
+  {
+    "id": "vocab-1-16",
+    "italian": "Male",
+    "english": "Bad / Badly",
+    "pronunciation": "MAH-leh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Mi sento male.",
+    "exampleSentenceEnglish": "I feel bad."
+  },
+  {
+    "id": "vocab-1-17",
+    "italian": "Mi chiamo",
+    "english": "My name is",
+    "pronunciation": "mee kee-AH-mo",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Mi chiamo Marco.",
+    "exampleSentenceEnglish": "My name is Marco."
+  },
+  {
+    "id": "vocab-1-18",
+    "italian": "Piacere",
+    "english": "Pleasure / Nice to meet you",
+    "pronunciation": "pee-a-CHEH-reh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Piacere di conoscerti!",
+    "exampleSentenceEnglish": "Nice to meet you!"
+  },
+  {
+    "id": "vocab-1-19",
+    "italian": "Parli inglese?",
+    "english": "Do you speak English?",
+    "pronunciation": "PAR-lee een-GLEH-zeh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Scusi, parli inglese?",
+    "exampleSentenceEnglish": "Excuse me, do you speak English?"
+  },
+  {
+    "id": "vocab-1-20",
+    "italian": "Non capisco",
+    "english": "I don't understand",
+    "pronunciation": "non ka-PEE-sko",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-1",
+    "exampleSentenceItalian": "Scusa, non capisco.",
+    "exampleSentenceEnglish": "Sorry, I don't understand."
+  },
+  {
+    "id": "vocab-2-1",
+    "italian": "Uno",
+    "english": "One",
+    "pronunciation": "OO-no",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-2",
+    "italian": "Due",
+    "english": "Two",
+    "pronunciation": "DOO-eh",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-3",
+    "italian": "Tre",
+    "english": "Three",
+    "pronunciation": "treh",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-4",
+    "italian": "Quattro",
+    "english": "Four",
+    "pronunciation": "KWAH-tro",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-5",
+    "italian": "Cinque",
+    "english": "Five",
+    "pronunciation": "CHEEN-kweh",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-6",
+    "italian": "Sei",
+    "english": "Six",
+    "pronunciation": "say",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-7",
+    "italian": "Sette",
+    "english": "Seven",
+    "pronunciation": "SET-teh",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-8",
+    "italian": "Otto",
+    "english": "Eight",
+    "pronunciation": "OT-to",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-9",
+    "italian": "Nove",
+    "english": "Nine",
+    "pronunciation": "NO-veh",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-10",
+    "italian": "Dieci",
+    "english": "Ten",
+    "pronunciation": "dee-EH-chee",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-11",
+    "italian": "Zero",
+    "english": "Zero",
+    "pronunciation": "DZEH-ro",
+    "type": "number",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2"
+  },
+  {
+    "id": "vocab-2-12",
+    "italian": "Rosso",
+    "english": "Red",
+    "pronunciation": "ROS-so",
+    "type": "color",
+    "gender": "masculine",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "Il libro è rosso.",
+    "exampleSentenceEnglish": "The book is red."
+  },
+  {
+    "id": "vocab-2-13",
+    "italian": "Blu",
+    "english": "Blue",
+    "pronunciation": "bloo",
+    "type": "color",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "Il cielo è blu.",
+    "exampleSentenceEnglish": "The sky is blue."
+  },
+  {
+    "id": "vocab-2-14",
+    "italian": "Verde",
+    "english": "Green",
+    "pronunciation": "VEHR-deh",
+    "type": "color",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "L'erba è verde.",
+    "exampleSentenceEnglish": "The grass is green."
+  },
+  {
+    "id": "vocab-2-15",
+    "italian": "Giallo",
+    "english": "Yellow",
+    "pronunciation": "JAL-lo",
+    "type": "color",
+    "gender": "masculine",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "Il sole è giallo.",
+    "exampleSentenceEnglish": "The sun is yellow."
+  },
+  {
+    "id": "vocab-2-16",
+    "italian": "Bianco",
+    "english": "White",
+    "pronunciation": "bee-AHN-ko",
+    "type": "color",
+    "gender": "masculine",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "La neve è bianca.",
+    "exampleSentenceEnglish": "The snow is white."
+  },
+  {
+    "id": "vocab-2-17",
+    "italian": "Nero",
+    "english": "Black",
+    "pronunciation": "NEH-ro",
+    "type": "color",
+    "gender": "masculine",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "La notte è nera.",
+    "exampleSentenceEnglish": "The night is black."
+  },
+  {
+    "id": "vocab-2-18",
+    "italian": "Arancione",
+    "english": "Orange",
+    "pronunciation": "ah-rahn-CHO-neh",
+    "type": "color",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "L'arancia è arancione.",
+    "exampleSentenceEnglish": "The orange is orange."
+  },
+  {
+    "id": "vocab-2-19",
+    "italian": "Rosa",
+    "english": "Pink",
+    "pronunciation": "RO-za",
+    "type": "color",
+    "gender": "masculine",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "Il fiore è rosa.",
+    "exampleSentenceEnglish": "The flower is pink."
+  },
+  {
+    "id": "vocab-2-20",
+    "italian": "Marrone",
+    "english": "Brown",
+    "pronunciation": "mahr-RO-neh",
+    "type": "color",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-2",
+    "exampleSentenceItalian": "L'albero è marrone.",
+    "exampleSentenceEnglish": "The tree is brown."
+  },
+  {
+    "id": "vocab-3-1",
+    "italian": "Lunedì",
+    "english": "Monday",
+    "pronunciation": "loo-neh-DEE",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Lunedì vado al lavoro.",
+    "exampleSentenceEnglish": "On Monday I go to work."
+  },
+  {
+    "id": "vocab-3-2",
+    "italian": "Martedì",
+    "english": "Tuesday",
+    "pronunciation": "mar-teh-DEE",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Martedì ho una riunione.",
+    "exampleSentenceEnglish": "On Tuesday I have a meeting."
+  },
+  {
+    "id": "vocab-3-3",
+    "italian": "Mercoledì",
+    "english": "Wednesday",
+    "pronunciation": "mehr-ko-leh-DEE",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Mercoledì è metà settimana.",
+    "exampleSentenceEnglish": "Wednesday is mid-week."
+  },
+  {
+    "id": "vocab-3-4",
+    "italian": "Giovedì",
+    "english": "Thursday",
+    "pronunciation": "jo-veh-DEE",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Giovedì vado in palestra.",
+    "exampleSentenceEnglish": "On Thursday I go to the gym."
+  },
+  {
+    "id": "vocab-3-5",
+    "italian": "Venerdì",
+    "english": "Friday",
+    "pronunciation": "veh-nehr-DEE",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Venerdì sera esco con gli amici.",
+    "exampleSentenceEnglish": "Friday evening I go out with friends."
+  },
+  {
+    "id": "vocab-3-6",
+    "italian": "Sabato",
+    "english": "Saturday",
+    "pronunciation": "SAH-ba-to",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Sabato faccio shopping.",
+    "exampleSentenceEnglish": "On Saturday I go shopping."
+  },
+  {
+    "id": "vocab-3-7",
+    "italian": "Domenica",
+    "english": "Sunday",
+    "pronunciation": "do-MEH-nee-ka",
+    "type": "day",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Domenica riposo.",
+    "exampleSentenceEnglish": "On Sunday I rest."
+  },
+  {
+    "id": "vocab-3-8",
+    "italian": "Gennaio",
+    "english": "January",
+    "pronunciation": "jen-NAH-yo",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Gennaio è il primo mese.",
+    "exampleSentenceEnglish": "January is the first month."
+  },
+  {
+    "id": "vocab-3-9",
+    "italian": "Febbraio",
+    "english": "February",
+    "pronunciation": "feb-BRA-yo",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-10",
+    "italian": "Marzo",
+    "english": "March",
+    "pronunciation": "MAR-tso",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-11",
+    "italian": "Aprile",
+    "english": "April",
+    "pronunciation": "a-PREE-leh",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-12",
+    "italian": "Maggio",
+    "english": "May",
+    "pronunciation": "MAJ-jo",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-13",
+    "italian": "Giugno",
+    "english": "June",
+    "pronunciation": "JOO-nyo",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-14",
+    "italian": "Luglio",
+    "english": "July",
+    "pronunciation": "LOO-lyo",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-15",
+    "italian": "Agosto",
+    "english": "August",
+    "pronunciation": "a-GOS-to",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-16",
+    "italian": "Settembre",
+    "english": "September",
+    "pronunciation": "set-TEM-breh",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-17",
+    "italian": "Ottobre",
+    "english": "October",
+    "pronunciation": "ot-TO-breh",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-18",
+    "italian": "Novembre",
+    "english": "November",
+    "pronunciation": "no-VEM-breh",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-19",
+    "italian": "Dicembre",
+    "english": "December",
+    "pronunciation": "dee-CHEM-breh",
+    "type": "month",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3"
+  },
+  {
+    "id": "vocab-3-20",
+    "italian": "Che ora è?",
+    "english": "What time is it?",
+    "pronunciation": "keh OH-ra eh",
+    "type": "phrase",
+    "difficultyLevel": 1,
+    "lessonId": "lesson-3",
+    "exampleSentenceItalian": "Scusi, che ora è?",
+    "exampleSentenceEnglish": "Excuse me, what time is it?"
+  }
+]
